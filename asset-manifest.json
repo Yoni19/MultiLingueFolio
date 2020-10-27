@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/MultiLingueFolio/static/css/main.fe2d9752.chunk.css",
-    "main.js": "/MultiLingueFolio/static/js/main.493f0110.chunk.js",
-    "main.js.map": "/MultiLingueFolio/static/js/main.493f0110.chunk.js.map",
+    "main.js": "/MultiLingueFolio/static/js/main.d7f13b7e.chunk.js",
+    "main.js.map": "/MultiLingueFolio/static/js/main.d7f13b7e.chunk.js.map",
     "runtime-main.js": "/MultiLingueFolio/static/js/runtime-main.a3d985c9.js",
     "runtime-main.js.map": "/MultiLingueFolio/static/js/runtime-main.a3d985c9.js.map",
     "static/js/2.16ac7405.chunk.js": "/MultiLingueFolio/static/js/2.16ac7405.chunk.js",
     "static/js/2.16ac7405.chunk.js.map": "/MultiLingueFolio/static/js/2.16ac7405.chunk.js.map",
     "index.html": "/MultiLingueFolio/index.html",
     "static/css/main.fe2d9752.chunk.css.map": "/MultiLingueFolio/static/css/main.fe2d9752.chunk.css.map",
-    "static/js/2.16ac7405.chunk.js.LICENSE.txt": "/MultiLingueFolio/static/js/2.16ac7405.chunk.js.LICENSE.txt"
+    "static/js/2.16ac7405.chunk.js.LICENSE.txt": "/MultiLingueFolio/static/js/2.16ac7405.chunk.js.LICENSE.txt",
+    "static/media/Yoni.eee697a5.jpg": "/MultiLingueFolio/static/media/Yoni.eee697a5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a3d985c9.js",
     "static/js/2.16ac7405.chunk.js",
     "static/css/main.fe2d9752.chunk.css",
-    "static/js/main.493f0110.chunk.js"
+    "static/js/main.d7f13b7e.chunk.js"
   ]
 }
