@@ -1,5 +1,6 @@
 import React from "react";
 import { FormattedMessage } from 'react-intl';
+
 // Home.jsx
 const Home = () => {
   return (
@@ -21,8 +22,9 @@ const Home = () => {
           <p className="title">
           <FormattedMessage id="home.content" />
           </p>
-         
+        
         </div>
+        
       </div>
     </div>
   );
